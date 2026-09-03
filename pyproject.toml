@@ -1,0 +1,8 @@
+[project]
+name = "Don't remove vehicle"
+version = "1.0"
+authors = [{ name = "youdietoo" }]
+description = "Don't remove vehicles during map transition."
+
+[tool.sdkmod]
+name = "Don't remove vehicle"
